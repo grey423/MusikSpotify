@@ -257,8 +257,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚨 Support", url="t.me/SpotifySupport_id"),
-                    InlineKeyboardButton("📡 Updates", url="t.me/SpotifyBotProject"),
+                    InlineKeyboardButton("🚨 Support", url="t.me/greynihsupport"),
+                    InlineKeyboardButton("📡 Updates", url="t.me/greyupdate"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -295,8 +295,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🚨 Support", url="t.me/SpotifySupport_id"),
-                        InlineKeyboardButton("📡 Updates", url="t.me/SpotifyBotProject"),
+                        InlineKeyboardButton("🚨 Support", url="t.me/greynihsupport"),
+                        InlineKeyboardButton("📡 Updates", url="t.me/greyupdate"),
                     ],
                     [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
                 ]
@@ -356,7 +356,7 @@ async def play(_, message: Message):
     else:
         if len(message.command) < 2:
             return await lel.edit(
-                "🧐 **Song not found! Try searching with the correct title\nExample » /play In The End\n\nChannel : @DeCodeMusicBot**"
+                "🧐 **Song not found! Try searching with the correct title\nExample » /play In The End\n\nChannel : @greyupdate**"
             )
         await lel.edit("🔎 **Finding the song...**")
         query = message.text.split(None, 1)[1]
@@ -392,8 +392,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚨 Support", url="t.me/SpotifySupport_id"),
-                    InlineKeyboardButton("📡 Updates", url="t.me/SpotifyBotProject"),
+                    InlineKeyboardButton("🚨 Support", url="t.me/greynihsupport"),
+                    InlineKeyboardButton("📡 Updates", url="t.me/greyupdate"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
