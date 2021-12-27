@@ -33,5 +33,5 @@ async def broadcast(_, message: Message):
                 # await wtf.edit(f"broadcasting... \n\nSent to: {sent} Chats \nFailed in:* {failed} Chats")
 
     await message.reply_text(
-        f"Broadcast Finished  \n\n****Sent to:**** {sent} Chats \n****Failed in:**** {failed} Chats**__Powered By:__**Spotify"
+        f"Broadcast Finished  \n\n****Sent to:**** {sent} Chats \n****Failed in:**** {failed} Chats**__Powered By:__**Grey Music"
     )
