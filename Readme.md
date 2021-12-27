@@ -10,8 +10,8 @@
 
 ## 💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/SpotifySupport_id)
 
-[![Spotify](https://img.shields.io/badge/DeCode%20-Support%20-blue)](https://t.me/SpotifySupport_id)
-[![Spotify](https://img.shields.io/badge/DeCode%20-Updates%20-blue)](https://t.me/SpotifyBotProject)
+[![Spotify](https://img.shields.io/badge/DeCode%20-Support%20-blue)](https://t.me/greynihsupport)
+[![Spotify](https://img.shields.io/badge/DeCode%20-Updates%20-blue)](https://t.me/greyupdate)
 
 
 ## Cᴏᴍᴍᴀɴᴅs
@@ -37,5 +37,5 @@
 
 ## DEPLOY ON HEROKU 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KaisenXXD/Spotify-Music"><img src="https://img.shields.io/badge/SPOTIFY-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/grey423/MusikSpotify"><img src="https://img.shields.io/badge/SPOTIFY-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
 
